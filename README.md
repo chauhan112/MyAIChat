@@ -13,4 +13,5 @@ This application provides the following features
 * organize the conversation based on different timestmp just like ChatGPT
 
 ## Run
-
+```streamlit run qa_file.py```
+ 
