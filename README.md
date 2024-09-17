@@ -11,6 +11,9 @@ This application provides the following features
 * use ```llama3-chatqa:8b``` for better conversation
 * ability to search conversations
 * organize the conversation based on different timestmp just like ChatGPT
+* line formatting is not working
+* i am able to different models
+* disable send message when bot is processing
 
 ## Run
 ```streamlit run qa_file.py```
