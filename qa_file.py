@@ -101,7 +101,7 @@ def main():
     st.set_page_config(page_title="Custom QA Model", layout="wide")
     # st.title("Custom QA Model with Conversation History")
 
-    qa_model = CustomQAModel("llama3.1:8b")
+    qa_model = CustomQAModel("llava")
 
     # Sidebar for selecting or creating a new conversation
     conversations = qa_model.get_all_conversations()
